@@ -82,16 +82,16 @@ NotesApp/
 ## 🎨 Screenshots
 
 ### Login Screen
-![Login Screen](app/src/main/res/screenshots/notesapplogin.png)
+![Login Screen](app/src/main/res/screenshots/notesapplogin.jpg)
 
 ### Register Screen
-![Register Screen](app/src/main/res/screenshots/notesappregister.png)
+![Register Screen](app/src/main/res/screenshots/notesappregister.jpg)
 
 ### Home Screen
-![Home Screen](app/src/main/res/screenshots/notesapphome.png)
+![Home Screen](app/src/main/res/screenshots/notesapphome.jpg)
 
 ### Notes Management
-![Notes Management](app/src/main/res/screenshots/notesappfunctions.png)
+![Notes Management](app/src/main/res/screenshots/notesappfunctions.jpg)
 
 ---
 
